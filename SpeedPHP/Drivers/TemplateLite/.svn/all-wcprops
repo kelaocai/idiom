@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/TemplateLite
+END
+class.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/TemplateLite/class.config.php
+END
+class.template.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/TemplateLite/class.template.php
+END
+class.compiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/TemplateLite/class.compiler.php
+END

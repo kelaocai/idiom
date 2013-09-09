@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers
+END
+mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/mysqli.php
+END
+sae.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/sae.php
+END
+mssql.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/mssql.php
+END
+pdo.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/pdo.php
+END
+sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/sqlite.php
+END
+oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/oracle.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/mysql.php
+END
+speedy.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/152/trunk/idiom_s/SpeedPHP/Drivers/speedy.php
+END

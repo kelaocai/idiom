@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player
+END
+control_bg-cap-left.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_bg-cap-left.png
+END
+snd_off_n.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/snd_off_n.png
+END
+TextureManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/TextureManager.js
+END
+left_arrow_mobile_n-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/left_arrow_mobile_n-hd.png
+END
+snd_off_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/snd_off_p.png
+END
+doc_info_mobile_cut.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/doc_info_mobile_cut.png
+END
+OrientationController.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/OrientationController.js
+END
+FilterDebugCode.sed
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/FilterDebugCode.sed
+END
+play_badge.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/play_badge.png
+END
+prototype.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/prototype.js
+END
+bg_info_panel-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/bg_info_panel-hd.png
+END
+bezel-l.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/bezel-l.png
+END
+close_d.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/close_d.png
+END
+right_arrow_mobile_p-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/right_arrow_mobile_p-hd.png
+END
+bezel-m.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/bezel-m.png
+END
+control_sound-off_N.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_sound-off_N.png
+END
+control_sound-off_P.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_sound-off_P.png
+END
+bg_tile_iPad.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/bg_tile_iPad.png
+END
+bezel-r.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/bezel-r.png
+END
+close_n.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/close_n.png
+END
+control_iwork_N.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_iwork_N.png
+END
+spinner_dkgrey.gif
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/spinner_dkgrey.gif
+END
+close_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/close_p.png
+END
+control_iwork_P.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_iwork_P.png
+END
+right_arrow_mobile_d-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/right_arrow_mobile_d-hd.png
+END
+control_link_N.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_link_N.png
+END
+StageManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/StageManager.js
+END
+control_link_P.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_link_P.png
+END
+AnimationManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/AnimationManager.js
+END
+left_arrow_d.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/left_arrow_d.png
+END
+DebuggingSupport.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/DebuggingSupport.js
+END
+control_bg-cap-right.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_bg-cap-right.png
+END
+KeynoteDHTMLPlayer.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/KeynoteDHTMLPlayer.js
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/favicon.ico
+END
+left_arrow_n.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/left_arrow_n.png
+END
+right_arrow_mobile_d.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/right_arrow_mobile_d.png
+END
+control_play-72_N.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_play-72_N.png
+END
+left_arrow_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/left_arrow_p.png
+END
+ShowController.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/ShowController.js
+END
+control_play-72_P.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_play-72_P.png
+END
+mobile_safari_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/mobile_safari_bg.png
+END
+left_arrow_mobile_p-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/left_arrow_mobile_p-hd.png
+END
+right_arrow_mobile_n.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/right_arrow_mobile_n.png
+END
+right_arrow_d.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/right_arrow_d.png
+END
+spinner_black-hd.gif
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/spinner_black-hd.gif
+END
+string.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/string.js
+END
+right_arrow_mobile_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/right_arrow_mobile_p.png
+END
+waiting_bezel.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/waiting_bezel.png
+END
+control_sound-on_N.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_sound-on_N.png
+END
+badge_info_n-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/badge_info_n-hd.png
+END
+control_sound-on_P.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_sound-on_P.png
+END
+Utilities.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/Utilities.js
+END
+DocumentInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/DocumentInfo.js
+END
+left_arrow_mobile_d-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/left_arrow_mobile_d-hd.png
+END
+nullImage.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/nullImage.png
+END
+right_arrow_n.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/right_arrow_n.png
+END
+right_arrow_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/right_arrow_p.png
+END
+doc_info_mobile_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/doc_info_mobile_bg.png
+END
+control_next_D.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_next_D.png
+END
+snd_on_d.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/snd_on_d.png
+END
+control_previous_D.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_previous_D.png
+END
+FilterDebugCode.bash
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/FilterDebugCode.bash
+END
+KeynoteDHTMLPlayer.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/KeynoteDHTMLPlayer.html
+END
+right_arrow_mobile_n-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/right_arrow_mobile_n-hd.png
+END
+play_badge_sm.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/play_badge_sm.png
+END
+control_next_N.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_next_N.png
+END
+snd_on_n.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/snd_on_n.png
+END
+control_next_P.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_next_P.png
+END
+snd_on_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/snd_on_p.png
+END
+control_previous_N.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_previous_N.png
+END
+control_bg-fill.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_bg-fill.png
+END
+control_previous_P.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_previous_P.png
+END
+DisplayManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/DisplayManager.js
+END
+control_restart_D.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_restart_D.png
+END
+left_arrow_mobile_d.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/left_arrow_mobile_d.png
+END
+ShowController.js.orig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/ShowController.js.orig
+END
+KeynoteDHTMLPlayer.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/KeynoteDHTMLPlayer.css
+END
+badge_info_n.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/badge_info_n.png
+END
+ScriptManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/ScriptManager.js
+END
+control_restart_N.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_restart_N.png
+END
+control_restart_P.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/control_restart_P.png
+END
+snd_off_d.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/snd_off_d.png
+END
+left_arrow_mobile_n.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/left_arrow_mobile_n.png
+END
+TouchController.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/TouchController.js
+END
+left_arrow_mobile_p.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/155/trunk/idiom_s/guess/assets/player/left_arrow_mobile_p.png
+END
